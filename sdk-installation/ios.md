@@ -87,7 +87,7 @@ Once you have your app running in the iOS Simulator or on a physical device, nav
 
 ## Requirements
 
-* iOS 12.0 or later
+* iOS 15.0 or later
 
 ## Problems rendering certain views?
 
