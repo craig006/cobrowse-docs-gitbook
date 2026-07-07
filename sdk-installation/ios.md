@@ -89,6 +89,10 @@ Once you have your app running in the iOS Simulator or on a physical device, nav
 
 * iOS 15.0 or later
 
+{% hint style="info" %}
+Our minimum supported iOS version is always the lowest Apple will accept as an App Store submission.
+{% endhint %}
+
 ## Problems rendering certain views?
 
 Try our alternative rendering method below:
